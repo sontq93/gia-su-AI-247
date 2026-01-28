@@ -1,0 +1,8 @@
+{
+  "name": "Gia Sư AI 24/7 - Siêu Nhân Tự Học",
+  "description": "Một người bạn đồng hành thông minh, thân thiện giúp các bé từ 6-13 tuổi rèn luyện thói quen tự học qua các môn Toán, Tiếng Việt, Khoa học và nhiều hơn nữa.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
